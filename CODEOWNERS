@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @rachit404
+/src/backend/database.py      @rachit404
+/src/backend/routers/auth.py  @rachit404
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @rachit404
